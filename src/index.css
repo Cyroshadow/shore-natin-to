@@ -1,0 +1,6 @@
+/* @import ""; */
+
+:root {
+  --main: hsl(220, 70%, 60%);
+  --secondary: hsl(220, 70%, 40%);
+}
